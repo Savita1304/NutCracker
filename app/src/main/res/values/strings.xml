@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NutCracker</string>
+    <string name="nutcracker">NutCracker</string>
+    <string name="Shared_Videos">Turn Your Shared Videos into Revenue Streams</string>
+    <string name="fast_easy">Fast, Easy And Secure.</string>//
+    <string name="Start_upload"> Start Upload</string>
+    <string name="upload_tele">Upload from Telegram</string>
+    <string name="upload_img">Upload Image</string>
+    <string name="Choose_img">Choose a Image:</string>
+    <string name="Ch">Important</string>
+
+    <string name="Ch1">We offer video share and earn revenue model.</string>
+    <string name="Ch2">Easy to use, earning method by doing almost nothing.</string>
+
+    <string name="Ch3">You will get a temporary link here, convert it with our <b>Telegram Bot</b> to make it working.</string>
+
+</resources>
